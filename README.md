@@ -1,6 +1,6 @@
 # dialogflow-go-client
 
-[![CircleCI](https://circleci.com/gh/mlabouardy/dialogflow-go-client.svg?style=svg)](https://circleci.com/gh/mlabouardy/dialogflow-go-client) [![License](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg)](https://opensource.org/licenses/Apache-2.0) [![Go Report Card](https://goreportcard.com/badge/github.com/mlabouardy/apiai-go-client)](https://goreportcard.com/report/github.com/mlabouardy/apiai-go-client)
+[![CircleCI](https://circleci.com/gh/mllu/dialogflow-go-client.svg?style=svg)](https://circleci.com/gh/mllu/dialogflow-go-client) [![License](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg)](https://opensource.org/licenses/Apache-2.0) [![Go Report Card](https://goreportcard.com/badge/github.com/mllu/apiai-go-client)](https://goreportcard.com/report/github.com/mllu/apiai-go-client)
 
 <div align="center">
 	<img src="logo.png" width="50%"/>
@@ -21,7 +21,7 @@ Create an [DialogFlow account](https://dialogflow.com/).
 # Installation
 
 ```shell
-go get github.com/mlabouardy/dialogflow-go-client
+go get github.com/mllu/dialogflow-go-client
 ```
 
 # Features
@@ -41,8 +41,8 @@ package main
 
 import (
 	"fmt"
-	. "github.com/mlabouardy/dialogflow-go-client"
-	. "github.com/mlabouardy/dialogflow-go-client/models"
+	. "github.com/mllu/dialogflow-go-client"
+	. "github.com/mllu/dialogflow-go-client/models"
 	"log"
 )
 
